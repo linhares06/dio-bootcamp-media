@@ -1,0 +1,37 @@
+# Build files
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# .NET dependency caches
+packages/
+.nuget/
+project.lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# User secrets (if using)
+secrets.json
+.env
+
+# ASP.NET temp files
+wwwroot/
+
+# Runtime artifacts
+*.db
+*.sqlite
+*.pdb
+
+#
