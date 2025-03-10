@@ -107,7 +107,7 @@ DELETE /api/media/{id}
 ## 🛠️ **Technologies Used**
 - **ASP.NET Core** - Web API framework
 - **Entity Framework Core** - ORM for database operations
-- **SQL Server** - Database storage
+- **SQLite** - Database storage
 - **C#** - Main programming language
 
 ---
